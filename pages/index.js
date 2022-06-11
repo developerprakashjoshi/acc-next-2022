@@ -34,7 +34,7 @@ export default function Home() {
       <div className='container'>
         <h5 className='pt-2'>Ramakrishna Mission, Shillong</h5>
         <hr />
-        <h6>Registration Form</h6>
+        <h6>Registration Form, 2022</h6>
         <form onSubmit={onSubmit}>
           <div className='row g-3'>
             <div className="col-md-3">
